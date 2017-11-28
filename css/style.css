@@ -515,7 +515,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
   #fh5co-hero .flexslider .slider-text > .slider-text-inner {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: bottom;
     min-height: 700px;
   }
   #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
@@ -1260,7 +1260,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
   .item_nav1:hover {
     color: #ededed!important;
-<<<<<<< HEAD
+
   }
 
   .boxshadtitle {
@@ -1269,21 +1269,21 @@ h1, h2, h3, h4, h5, h6, figure {
 
   .socialnav {
     z-index: 10;
-    top: 78vh;
+    top: 75vh;
     left: 2vw;
     position: fixed;
   }
 
   .socialnav ul {
     padding: 10px 5px 10px 5px;
-    border-radius: 2px;
+    border-radius: 15px;
     background-color: #ededed;
     list-style:none;
-    box-shadow: 0px 0px 5px #000000;
-    }
+    box-shadow: 0px 0px 8px #000000;
+  }
 
     .socialnav ul li img {
-    
+    padding-bottom: 5px;
   }
 
   header {
@@ -1293,6 +1293,3 @@ h1, h2, h3, h4, h5, h6, figure {
     box-shadow: 0px 0px 5px #000000;
   }
 
-=======
-  }
->>>>>>> 3b5c9e698b9eddff63d0bd81c8f4016eddd4d095
