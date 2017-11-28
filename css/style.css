@@ -1310,3 +1310,30 @@ h1, h2, h3, h4, h5, h6, figure {
   .boxshadtitle {
     text-shadow: 0px 0px 15px #000000;
   }
+
+  .socialnav {
+    z-index: 10;
+    top: 78vh;
+    left: 2vw;
+    position: fixed;
+  }
+
+  .socialnav ul {
+    padding: 10px 5px 10px 5px;
+    border-radius: 2px;
+    background-color: #ededed;
+    list-style:none;
+    box-shadow: 0px 0px 5px #000000;
+    }
+
+    .socialnav ul li img {
+    
+  }
+
+  header {
+    z-index : 10; 
+    top: 0px; 
+    position: fixed;
+    box-shadow: 0px 0px 5px #000000;
+  }
+
