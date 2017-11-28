@@ -22,10 +22,6 @@ body {
   position: relative;
 }
 
-.header1 {
-  position: fixed;
-}
-
 a {
   color: #27E1CE;
   -webkit-transition: 0.5s;
@@ -405,7 +401,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 7px;
   left: 10px;
   right: 10px;
-  background-color: #27E1CE;
+  background-color: #ededed;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -1226,6 +1222,8 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 0;
 }
 
+/*- - - - - - - -NEW- - - - - - - -*/
+
 /*# sourceMappingURL=style.css.map */
 =============================
 SOUNDCLOUD
@@ -1279,4 +1277,32 @@ SOUNDCLOUD
   height: 60px;
   width: 200px;
 
+}
+
+.btn-custom {
+  color: #ededed!important;
+  background-color: #151515!important;
+  border-color: #DDDDDD;
+}
+
+.btn-custom:hover {
+  color: #ededed!important;
+  background-color: #080808!important;
+  border-color: #DDDDDD!important;
+}
+
+.navig {
+  background-color: #050505!important;
+}
+
+.acustombld {
+  color: white!important;
+}
+
+.item_nav1 {
+  color: #ededed!important;
+}
+
+.item_nav1:hover {
+  color: #ededed!important;
 }
