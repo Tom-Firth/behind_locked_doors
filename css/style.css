@@ -1236,7 +1236,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
   .top-soundcloud {
 
-    top: 65px;
+    top: 100%;
     left: 50%;
     
     color: white;
@@ -1249,8 +1249,8 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 
   .center-soundcloud {
-    
-    top: 65%;
+
+    top: 165%;
     left: 47%;
     
 
@@ -1258,10 +1258,10 @@ h1, h2, h3, h4, h5, h6, figure {
 
   .bottom-soundcloud {
 
-    
-    bottom: 6%;
+
+    top: 206%;
     left: 50%;
-    
+
 
   }
 
