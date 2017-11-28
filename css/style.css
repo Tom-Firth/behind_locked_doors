@@ -1295,10 +1295,18 @@ h1, h2, h3, h4, h5, h6, figure {
     color: white!important;
   }
 
+  .acustombld:hover {
+    color: #f4c242!important;
+  }
+
   .item_nav1 {
     color: #ededed!important;
   }
 
   .item_nav1:hover {
     color: #ededed!important;
+  }
+
+  .boxshadtitle {
+    text-shadow: 0px 0px 15px #000000;
   }
