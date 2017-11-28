@@ -22,6 +22,10 @@ body {
   position: relative;
 }
 
+.header1 {
+  position: fixed;
+}
+
 a {
   color: #27E1CE;
   -webkit-transition: 0.5s;
