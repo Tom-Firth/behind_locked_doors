@@ -22,6 +22,10 @@ body {
   position: relative;
 }
 
+.header1 {
+  position: fixed;
+}
+
 a {
   color: #27E1CE;
   -webkit-transition: 0.5s;
@@ -416,7 +420,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-header nav ul li a:hover {
   text-decoration: none;
-  color: #ededed;
+  color: #27e1ce;
 }
 #fh5co-header nav ul li a:hover:after {
   visibility: visible;
@@ -1220,12 +1224,6 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .js .animate-box {
   opacity: 0;
-}
-
-/*- - - - - - - - - - - -NEW- - - - - - - - - - - - -*/
-
-#fh5co-header nav ul li a::after {
-  background: #ededed!important;
 }
 
 /*# sourceMappingURL=style.css.map */
