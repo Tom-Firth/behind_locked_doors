@@ -1222,7 +1222,7 @@ h1, h2, h3, h4, h5, h6, figure {
     opacity: 0;
   }
 
-  /*- - - - - - - -NEW- - - - - - - -*/
+  /*- xxxxxxxxxxxxxxxxx- - - - - - -NEW- - - - -xxxxxxxxxxxxxxxxx - - -*/
 
   /*# sourceMappingURL=style.css.map */
   =============================
@@ -1238,6 +1238,7 @@ h1, h2, h3, h4, h5, h6, figure {
     color: #ededed!important;
     background-color: #151515!important;
     border-color: #DDDDDD;
+    font-size: 1.5em!important;
   }
 
   .btn-custom:hover {
@@ -1293,3 +1294,65 @@ h1, h2, h3, h4, h5, h6, figure {
     box-shadow: 0px 0px 5px #000000;
   }
 
+  .titleh2_black {
+    font-size: 3em;
+    color: #151515;
+    text-align: center;
+    padding: 30px 0 30px 0;
+  }
+
+  .titleh2_white {
+    font-size: 3em;
+    color: #ededed;
+    text-align: center;
+    padding: 30px 0 30px 0;
+  }
+
+  .hr_black {
+    width: 20px;
+    height: 5px;
+    background-color: #151515;
+
+  }
+
+    .hr_white {
+    width: 20px;
+    height: 5px;
+    background-color: #ededed;
+
+  }
+
+  .bg_white {
+    background-color: #ededed;
+    padding-bottom: 30px;
+  }
+
+  .bg_black {
+    background-color: #151515;
+    padding-bottom: 30px;
+  }
+
+  #contact {
+    color: #ededed;
+    text-align: center;
+  }
+
+  #contact p {
+    font-size: 2.1em;
+  }
+
+    #contact p span {
+    color: white;
+  }
+
+  footer {
+    height: 70px;
+    line-height: 70px;
+    background-color: #050505;
+    box-shadow: 0px 0px 3px #000000;
+  }
+
+  footer p {
+    float: right;
+    color: #303030;
+  }
