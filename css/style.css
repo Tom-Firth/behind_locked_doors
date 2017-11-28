@@ -1231,27 +1231,25 @@ h1, h2, h3, h4, h5, h6, figure {
 
   .soundcloud-container{
 
-    background-image: url(../images/img4.jpg) no-repeat;
+
   }
 
   .top-soundcloud {
-
     top: 100%;
     left: 50%;
     
-    color: white;
-    border-bottom: solid 5px white;
   }
 
   .soundcloud-title {
-
+    color: white;
     font-size: 45px;
+    /* border-bottom: solid 5px white; */
   }
 
   .center-soundcloud {
 
-    top: 165%;
-    left: 47%;
+    top: 50vh;
+    left: 35vw;
     
 
   }
@@ -1259,7 +1257,7 @@ h1, h2, h3, h4, h5, h6, figure {
   .bottom-soundcloud {
 
 
-    top: 206%;
+    top: 100vh;
     left: 50%;
 
 
