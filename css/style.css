@@ -1229,41 +1229,10 @@ h1, h2, h3, h4, h5, h6, figure {
   SOUNDCLOUD
   =============================
 
-
-  .soundcloud-title {
-    position: absolute;
-    left: 50%;
-
+  .soundcloud{
+    background: url(../images/img4.jpg) no-repeat;
   }
 
-/*   .center-soundcloud {
-  position: relative;
-  top: 80vh;
-  left: 35vw;
-  
-
-}
-
-.bottom-soundcloud {
-
-  position: relative;
-  top: 85vh;
-  left: 15vw;
-
-
-  } */
-
-  .soundcloud-btn {
-
-    background-color: #eaeaea;
-    color: #121212;
-    border-bottom: 4px solid #757575;
-    border-left: 3px solid #cfcfcf;
-    border-right: 3px solid #cfcfcf;
-    height: 60px;
-    width: 200px;
-
-  }
 
   .btn-custom {
     color: #ededed!important;
@@ -1285,18 +1254,10 @@ h1, h2, h3, h4, h5, h6, figure {
     color: white!important;
   }
 
-  .acustombld:hover {
-    color: #f4c242!important;
-  }
-
   .item_nav1 {
     color: #ededed!important;
   }
 
   .item_nav1:hover {
     color: #ededed!important;
-  }
-
-  .boxshadtitle {
-    text-shadow: 0px 0px 15px #000000;
   }
