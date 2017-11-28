@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'bebas_neue';
-  src: url("../fonts/bebas_neue/bebas_neue.eot");
-  /*src: url("../fonts/bebas_neue/bebas_neue.eot") format("embedded-opentype"), url("../fonts/bebas_neue/bebas_neue.ttf") format("truetype"), url("../fonts/bebas_neue/bebas_neue.woff") format("woff"), url("../fonts/bebas_neue/bebas_neue.svg") format("svg");*/
+  src: url("../fonts/bebas_neue/bebas_neue.ttf.eot");
+  src: url("../fonts/bebas_neue/bebas_neue.ttf.eot") format("embedded-opentype"), url("../fonts/bebas_neue/bebas_neue.ttf") format("truetype"), url("../fonts/bebas_neue/bebas_neue.ttf.woff") format("woff"), url("../fonts/bebas_neue/bebas_neue.ttf.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
