@@ -1227,3 +1227,56 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 /*# sourceMappingURL=style.css.map */
+=============================
+SOUNDCLOUD
+=============================
+
+.img-soundcloud { 
+  width: 100%;
+  height: auto;
+
+}
+
+.top-soundcloud {
+
+  position: absolute;
+  top: 65px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  border-bottom: solid 5px white;
+}
+
+.soundcloud-title {
+
+  font-size: 45px;
+}
+
+.center-soundcloud {
+  position: absolute;
+  top: 65%;
+  left: 47%;
+  transform: translate(-50%, -50%);
+
+}
+
+.bottom-soundcloud {
+
+  position: absolute;
+  bottom: 6%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.soundcloud-btn {
+
+  background-color: #eaeaea;
+  color: #121212;
+  border-bottom: 4px solid #757575;
+  border-left: 3px solid #cfcfcf;
+  border-right: 3px solid #cfcfcf;
+  height: 60px;
+  width: 200px;
+
+}
